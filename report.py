@@ -1,3 +1,4 @@
+┌──(lilo㉿lilo)-[~]
 └─$ nikto -h https://siak.polimedia.ac.id
 - Nikto v2.5.0
 ---------------------------------------------------------------------------
@@ -19,6 +20,11 @@
 + /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
 + No CGI Directories found (use '-C all' to force check all possible dirs)
 + /images: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "10.130.223.0". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
++ /css/: This might be interesting.
++ /forum/: This might be interesting.
++ /tools/: This might be interesting.
++ /db.php: This might be interesting: has been seen in web logs from an unknown scanner.
++ /upgrade.php: upgrade.php was found.
 
 
 
