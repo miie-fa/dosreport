@@ -1,200 +1,140 @@
-[XSS] Request 1 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 1: Status 200
-[XSS] Request 2 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 3 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 4 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 1 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 2 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 5 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 2: Status 200
-[Flood] Request 3: Status 200
-[XSS] Request 6 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 4: Status 200
-[Flood] Request 5: Status 200
-[Flood] Request 6: Status 200
-[Flood] Request 7: Status 200
-[FileRead] Request 3 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 4 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 5 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 7 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 6 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 8 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 7 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 8: Status 200
-[XSS] Request 9 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 9: Status 200
-[XSS] Request 10 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 8 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 11 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 10: Status 200
-[XSS] Request 12 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 13 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 14 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 9 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 15 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 10 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 11: Status 200
-[Flood] Request 12: Status 200
-[Flood] Request 13: Status 200
-[FileRead] Request 11 failed: HTTPSConnectionPool(host='unj.ac.id', port=443): Read timed out. (read timeout=5)
-[Flood] Request 14: Status 200
-[XSS] Request 16 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 12 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 15: Status 200
-[Flood] Request 16: Status 200
-[Flood] Request 17: Status 200
-[FileRead] Request 13 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 18: Status 200
-[FileRead] Request 14 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 17 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 18 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 19 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 15 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 19: Status 200
-[XSS] Request 20 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 16 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 20: Status 200
-[FileRead] Request 17 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 21 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 21: Status 200
-[XSS] Request 22 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 22: Status 200
-[Flood] Request 23: Status 200
-[FileRead] Request 18 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 24: Status 200
-[Flood] Request 25: Status 200
-[FileRead] Request 19 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 20 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 21 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 22 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 23 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 23 failed: HTTPSConnectionPool(host='unj.ac.id', port=443): Read timed out. (read timeout=5)
-[FileRead] Request 24 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 24 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 25 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 26 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 26 failed: HTTPSConnectionPool(host='unj.ac.id', port=443): Read timed out. (read timeout=5)
-[XSS] Request 25 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 27 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 27: Status 200
-[XSS] Request 26 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 27 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 28 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 28: Status 200
-[FileRead] Request 29 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 28 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 29: Status 200
-[XSS] Request 29 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 30: Status 200
-[FileRead] Request 30 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 31 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 32 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 31: Status 200
-[Flood] Request 32: Status 200
-[XSS] Request 30 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 33: Status 200
-[XSS] Request 31 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 33 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 34: Status 200
-[XSS] Request 32 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 34 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 33 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 35 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 35: Status 200
-[FileRead] Request 36 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 34 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 35 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 36: Status 200
-[FileRead] Request 37 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 36 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 37: Status 200
-[Flood] Request 38: Status 200
-[FileRead] Request 38 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 39 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 37 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 39: Status 200
-[FileRead] Request 40 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 40: Status 200
-[FileRead] Request 41 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 42 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 38 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 43 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 41: Status 200
-[Flood] Request 42: Status 200
-[FileRead] Request 44 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 43: Status 200
-[FileRead] Request 45 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 44: Status 200
-[Flood] Request 45: Status 200
-[XSS] Request 39 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 40 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 46 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[FileRead] Request 47 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 41 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 42 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 46: Status 200
-[FileRead] Request 48 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 43 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 47: Status 200
-[FileRead] Request 49 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 44 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 48: Status 200
-[FileRead] Request 50 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 49: Status 200
-[XSS] Request 45 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 46 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[XSS] Request 47 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 50: Status 200
-[XSS] Request 48 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 51: Status 200
-[XSS] Request 49 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 52: Status 200
-[Flood] Request 53: Status 200
-[Flood] Request 54: Status 200
-[XSS] Request 50 failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[Flood] Request 55: Status 200
-[Flood] Request 56: Status 200
-[Flood] Request 57: Status 200
-[Flood] Request 58: Status 200
-[Flood] Request 59: Status 200
-[Flood] Request 60: Status 200
-[Flood] Request 61 failed: HTTPSConnectionPool(host='unj.ac.id', port=443): Read timed out. (read timeout=5)
-[Flood] Request 62: Status 200
-[Flood] Request 63: Status 200
-[Flood] Request 64: Status 200
-[Flood] Request 65: Status 200
-[Flood] Request 66: Status 200
-[Flood] Request 67: Status 200
-[Flood] Request 68: Status 200
-[Flood] Request 69: Status 200
-[Flood] Request 70: Status 200
-[Flood] Request 71: Status 200
-[Flood] Request 72: Status 200
-[Flood] Request 73: Status 200
-[Flood] Request 74: Status 200
-[Flood] Request 75 failed: HTTPSConnectionPool(host='unj.ac.id', port=443): Read timed out. (read timeout=5)
-[Flood] Request 76: Status 200
-[Flood] Request 77: Status 200
-[Flood] Request 78: Status 200
-[Flood] Request 79: Status 200
-[Flood] Request 80: Status 200
-[Flood] Request 81: Status 200
-[Flood] Request 82: Status 200
-[Flood] Request 83: Status 200
-[Flood] Request 84: Status 200
-[Flood] Request 85: Status 200
-[Flood] Request 86: Status 200
-[Flood] Request 87: Status 200
-[Flood] Request 88: Status 200
-[Flood] Request 89: Status 200
-[Flood] Request 90: Status 200
-[Flood] Request 91: Status 200
-[Flood] Request 92: Status 200
-[Flood] Request 93: Status 200
-[Flood] Request 94: Status 200
-[Flood] Request 95: Status 200
-[Flood] Request 96: Status 200
-[Flood] Request 97: Status 200
-[Flood] Request 98: Status 200
-[Flood] Request 99: Status 200
-[Flood] Request 100: Status 200
+Status    : 301 Moved Permanently
+Title     : 301 Moved Permanently
+IP        : 139.59.219.33
+Country   : AUSTRALIA, AU
+
+Summary   : HTTPServer[nginx], nginx, RedirectLocation[https://siak.polimedia.ac.id/]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : nginx (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://siak.polimedia.ac.id/ (from location)
+
+[ nginx ]
+        Nginx (Engine-X) is a free, open-source, high-performance 
+        HTTP server and reverse proxy, as well as an IMAP/POP3 
+        proxy server. 
+
+        Website     : http://nginx.net/
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Server: nginx
+        Date: Tue, 16 Sep 2025 15:58:39 GMT
+        Content-Type: text/html
+        Content-Length: 162
+        Connection: close
+        Location: https://siak.polimedia.ac.id/
+
+WhatWeb report for https://siak.polimedia.ac.id/
+Status    : 200 OK
+Title     : Sistem Informasi Akademik
+IP        : 139.59.219.33
+Country   : AUSTRALIA, AU
+
+Summary   : Bootstrap, Cookies[PHPSESSID], HTML5, HTTPServer[nginx], Meta-Author[pampersdry.info], Modernizr, nginx, PHP[7.2.34], Script[text/javascript], X-Powered-By[PHP/7.2.34], X-UA-Compatible[IE=edge], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ Bootstrap ]
+        Bootstrap is an open source toolkit for developing with 
+        HTML, CSS, and JS. 
+
+        Website     : https://getbootstrap.com/
+
+[ Cookies ]
+        Display the names of cookies in the HTTP headers. The 
+        values are not returned to save on space. 
+
+        String       : PHPSESSID
+
+[ HTML5 ]
+        HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : nginx (from server string)
+
+[ Meta-Author ]
+        This plugin retrieves the author name from the meta name 
+        tag - info: 
+        http://www.webmarketingnow.com/tips/meta-tags-uncovered.html
+        #author
+
+        String       : pampersdry.info
+
+[ Modernizr ]
+        Modernizr adds classes to the <html> element which allow 
+        you to target specific browser functionality in your 
+        stylesheet. You don't actually need to write any Javascript 
+        to use it. [JavaScript] 
+
+        Website     : http://www.modernizr.com/
+
+[ PHP ]
+        PHP is a widely-used general-purpose scripting language 
+        that is especially suited for Web development and can be 
+        embedded into HTML. This plugin identifies PHP errors, 
+        modules and versions and extracts the local file path and 
+        username if present. 
+
+        Version      : 7.2.34
+        Google Dorks: (2)
+        Website     : http://www.php.net/
+
+[ Script ]
+        This plugin detects instances of script HTML elements and 
+        returns the script language/type. 
+
+        String       : text/javascript
+
+[ X-Powered-By ]
+        X-Powered-By HTTP header 
+
+        String       : PHP/7.2.34 (from x-powered-by string)
+
+[ X-UA-Compatible ]
+        This plugin retrieves the X-UA-Compatible value from the 
+        HTTP header and meta http-equiv tag. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc817574.aspx 
+
+        String       : IE=edge
+
+[ X-XSS-Protection ]
+        This plugin retrieves the X-XSS-Protection value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : 1; mode=block
+
+[ nginx ]
+        Nginx (Engine-X) is a free, open-source, high-performance 
+        HTTP server and reverse proxy, as well as an IMAP/POP3 
+        proxy server. 
+
+        Website     : http://nginx.net/
+
+HTTP Headers:
+        HTTP/1.1 200 OK
+        Server: nginx
+        Date: Tue, 16 Sep 2025 15:58:46 GMT
+        Content-Type: text/html; charset=UTF-8
+        Transfer-Encoding: chunked
+        Connection: close
+        X-Powered-By: PHP/7.2.34
+        Set-Cookie: PHPSESSID=e40n0uhs9pg2cnqt2bfo79n24b; path=/
+        Expires: Thu, 19 Nov 1981 08:52:00 GMT
+        Cache-Control: no-store, no-cache, must-revalidate
+        Pragma: no-cache
+        X-XSS-Protection: 1; mode=block
